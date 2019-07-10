@@ -1,3 +1,7 @@
 bbbbbbb
+<<<<<<< HEAD
 cccccccc
+=======
+kkkkkkkk
+>>>>>>> remotes/origin/aa
 
