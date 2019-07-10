@@ -1,8 +1,3 @@
 hello1
-<<<<<<< HEAD
-hello3
-=======
-hello2
->>>>>>> aaf49df05a52ae8dec8990c51ad7417b58dc735a
 
 
