@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 b
-=======
-bbbbbbb
-mmmmmmmm
-
-aabx
->>>>>>> parent of 2a891b8... amos
-=======
-b
->>>>>>> e20955d6ef1b58e63506747a1fe51fd4fc366ddb
 
 
