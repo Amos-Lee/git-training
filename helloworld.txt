@@ -1,6 +1,10 @@
+<<<<<<< HEAD
+b
+=======
 bbbbbbb
 mmmmmmmm
 
-aabxs
+aabx
+>>>>>>> parent of 2a891b8... amos
 
 
